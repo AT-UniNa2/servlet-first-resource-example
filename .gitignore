@@ -1,3 +1,4 @@
 target/
 telematics.iml
 .DS_Store
+.idea/
